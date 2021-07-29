@@ -1,7 +1,7 @@
 ### Hi, I'm Luiz Claudio
 
 - 🔭 I’m currently working with front end
-- 🌱 I’m currently learning Vue.js, Java, PostgreSQL
+- 🌱 I’m currently learning Vue.js
 
 <div>
   <a href="https://github.com/luiz-cazarin">
