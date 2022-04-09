@@ -1,7 +1,8 @@
 ### Hi, I'm Luiz Claudio
 
-- 🔭 I’m currently working with front end
-- 🌱 I’m currently learning Vue.js
+- 🔭 I'm currently working with frontend and backend
+- 🌱 I'm currently learning React.js
+- ✔️ I'm working with java, vue.js
 
 <div>
   <a href="https://github.com/luiz-cazarin">
