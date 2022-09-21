@@ -2,7 +2,7 @@ Hi My name is Luiz Claudio
 ==============================
 
 - 🔭 I'm currently working with frontend and backend
-- 🌱 I'm currently learning React.js
+- 🌱 I'm currently learning React.js and Node
 - ✔️ I'm working with java, vue.js
 - 🖥️  See my portfolio at [Portfolio](https://react-portfolio-ee3c7.web.app/)
 
